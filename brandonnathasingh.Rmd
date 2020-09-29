@@ -1,0 +1,12 @@
+---
+title: "Brandon"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* An undergraduate senior majoring in computational biology and minoring in business.
+* Born and raised in Fort Lauderdale, Florida.
+* Loves playing baseball, tennis, table tennis, basketball, and disc golf. 
