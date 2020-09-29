@@ -1,0 +1,12 @@
+---
+title: "Katie"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# About Me!
+* I am from Singapore!
+* I am a first year Masters student!
+* I study invasive species and biocontrol management in Dr. Bernd Blossey's Lab!
