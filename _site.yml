@@ -6,4 +6,10 @@ navbar:
     - text: "Katie"
       href: katie.html
     - text: "Brandon"
-      href: brandonnathasingh.html  
+      href: brandonnathasingh.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true
